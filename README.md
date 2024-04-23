@@ -8,13 +8,19 @@
 
 - [x] 观察数据
 
+<br/>
+
 - [x] 数据预处理
 
 参考  [Spaceship Titanic with TFDF (kaggle.com)](https://www.kaggle.com/code/bnm731236993/spaceship-titanic-with-tfdf)
 
+<br/>
+
 - [ ] RandomForestModel
 
 示例  [Spaceship Titanic with TFDF (kaggle.com)](https://www.kaggle.com/code/bnm731236993/spaceship-titanic-with-tfdf)  得分0.82066
+
+<br/>
 
 - [ ] LightGBM
 
@@ -24,13 +30,19 @@
 
 [快速入门指南 - LightGBM 中文文档](https://lightgbm.cn/docs/2/)
 
+<br/>
+
 - [ ] XGBoost
 
 宣讲会上提到的“XGB模型”（可能是）
 
 示例  [SpaceshipTitanic-XGBoost-Score-81.5 (kaggle.com)](https://www.kaggle.com/code/twinpilgrim/spaceshiptitanic-xgboost-score-81-5)  得分0.81599
 
+<br/>
+
 - [ ] 纯全连接层
+
+<br/>
 
 - [ ] Conv1D
 
